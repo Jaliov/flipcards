@@ -1,7 +1,9 @@
 # Flipcards
-Welcome to FlipCards, a site designed to test your coding knowledge in different languages and prepare you for job interviews. Check out the different decks of flashcards to test your coding knowledge. 
+
+Welcome to FlipCards, a site designed to test your coding knowledge in different languages and prepare you for job interviews. Check out the different decks of flashcards to test your coding knowledge.
 
 ## Table of Contents
+
 <ol>
     <li><a href="#motivation">Motivation</a></li>
     <li><a href="#installation">Installation</a></li>
@@ -10,22 +12,28 @@ Welcome to FlipCards, a site designed to test your coding knowledge in different
     <li><a href="#license">License</a></li>
 </ol>
 
-## Motivation 
+## Motivation
+
 <a name="motivation"></a>
-Being a group of students in a coding bootcamp, we wanted to create a project that was relevant to us. We decided to create a site that uses flashcards that contain real-world interview questions that we found online from Glassdoor and google searches of top interview questions in different langauges. Our site is designed to help anyone who is trying to get ready for a coding interview. 
+Being a group of students in a coding bootcamp, we wanted to create a project that was relevant to us. We decided to create a site that uses flashcards that contain real-world interview questions that we found online from Glassdoor and google searches of top interview questions in different langauges. Our site is designed to help anyone who is trying to get ready for a coding interview.
 
+## Installation
 
-## Installation 
 <a name="installation"></a>
-To use the flipCards application you can clone this link, "git@github.com:adriansap/flipcards.git" and run npm install. 
+Flipcards can be launched from: http://flipcards2020.herokuapp.com/
+To install the flipCards application you can clone this link, "git@github.com:adriansap/flipcards.git" and run npm install.
 
-## Usage 
+## Usage
+
 <a name="usage"></a>
-To use this program, run it in your browser and select the language you would like to quiz yourself on from the homepage. After you choose a language, an index card will appear with a question, you can hover your mouse over the top of the card to flip it over and see the answer. Click the next button at the bottom of the page to see the next question. If you would like to switch decks you can click to the homepage pick a new language to quiz yourself on. 
+To use this program, run it in your browser and select the language you would like to quiz yourself on from the homepage. After you choose a language, an index card will appear with a question, you can hover your mouse over the top of the card to flip it over and see the answer. Click the next button at the bottom of the page to see the next question. If you would like to switch decks you can click to the homepage pick a new language to quiz yourself on.
 
+![](FlipCardsDemo3.gif)
 
 ## Technologies Used
- <a name="technologies"></a>
+
+<a name="technologies"></a>
+
 <ul>
     <li>Express</li>
     <li>Express Handlebars</li>
@@ -35,8 +43,10 @@ To use this program, run it in your browser and select the language you would li
     <li>ORM</li>
 </ul>
 
-## License 
+## License
+
 <a name="license"></a>
+
  <ul>
    <a href="https://github.com/bfronz" target ="_blank" ><li>Bob Fronczak</li></a>
    <a href="https://github.com/jaliov" target ="_blank" ><li>Joel Rudin</li></a>
